@@ -1,4 +1,4 @@
-# Bascket ball team manager
+# Basket ball team manager
 
 
 
